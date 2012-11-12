@@ -1,0 +1,4 @@
+#ignore compiled soruces and compressed archives
+*.zip
+*.exe
+*.love
